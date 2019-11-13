@@ -21,6 +21,6 @@ public class MaxSubarrayCol {
                 {-1, -1,  6},
         };
         int rowWithMaxSubArray = maxSubarrayCol(matrix);
-        System.out.println("Row with maximum subarray is:" + rowWithMaxSubArray);
+        System.out.println("Column with maximum subarray is:" + rowWithMaxSubArray);
     }
 }
